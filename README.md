@@ -12,7 +12,7 @@
 
 <p align="left">
   🌱 I’m currently learning React, Node, MongoDB and Machine learning<br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/swaraj-babu-beeda" target="_blank">GitHub</a><br>
+  👨‍💻 All of my projects are available at <a href="https://github.com/swaraj-babu-beeda?tab=repositories" target="_blank">GitHub</a><br>
   📫 How to reach me <a href="mailto:swarajbabubeeda98@gmail.com">swarajbabubeeda98@gmail.com</a>
 </p>
 
