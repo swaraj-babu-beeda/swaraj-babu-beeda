@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React, Node, MongoDB and Machine learning<br>👨‍💻 All of my projects are available at https://github.com/swaraj-babu-beeda<br>📫 How to reach me swarajbabubeeda98@gmail.com</p>
+<p align="left">
+  🌱 I’m currently learning React, Node, MongoDB and Machine learning<br>
+  👨‍💻 All of my projects are available at <a href="https://github.com/swaraj-babu-beeda" target="_blank">GitHub</a><br>
+  📫 How to reach me <a href="mailto:swarajbabubeeda98@gmail.com">swarajbabubeeda98@gmail.com</a>
+</p>
 
 ###
 
