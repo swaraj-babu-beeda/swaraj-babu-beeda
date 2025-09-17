@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  🚀 Aspiring Computer Science Engineer | Web Developer | AI Enthusiast  
+  🚀 Computer Science Engineer | Web Developer | AI Enthusiast  
 </p>
 
 ---
