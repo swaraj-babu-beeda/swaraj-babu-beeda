@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swaraj Babu Beeda</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=1D9BF0&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Web+Developer+%26+AI+Enthusiast;Full+Stack+%7C+Machine+Learning+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=1D9BF0&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Web+Developer+&+AI+Enthusiast;Full+Stack+|+Machine+Learning+|+Cloud" />
 </p>
+
 
 ---
 
