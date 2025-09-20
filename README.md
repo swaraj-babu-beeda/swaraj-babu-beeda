@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swaraj Babu Beeda</h1>
 
 <h2 align="center">
-  Computer Science Engineer <br>
-  Web Developer & AI Enthusiast <br>
+  Computer Science Engineer 
+  Web Developer & AI Enthusiast 
   Full Stack | Machine Learning | Cloud
 </h2>
 
